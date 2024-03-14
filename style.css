@@ -86,7 +86,19 @@ nav {
   padding: 10px 0;
 }
 /* question */
-.quesion{
-  margin-top:100px;
-  font-family: "IranYekan" , sans-serif;
+.quesion {
+  margin-top: 100px;
+  font-family: "IranYekan", sans-serif;
 }
+/* gototop btn */
+.goToTop {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  z-index: 99;
+}
+.goToTop i {
+  font-size: 2rem;
+}
+
