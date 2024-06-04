@@ -6,11 +6,11 @@ This is a Persian website for showcasing information and services related to mec
 
 The address of the mechanical website is:
 
-[Mechanical Website Address](https://www.fardinmechanical.ir)
+click 	[here](https://amir-mirzakhani.github.io/mechanic/) to see demo
 
 ## Website Screenshot
 
-click 	[here](https://amir-mirzakhani.github.io/mechanic/) to see demo
+![Mechanical Website Screenshot](<./assets/image/127.0.0.1_5500_index.html%20(1).png>)
 
 Description: The above image represents the overall appearance and design of our mechanical website.
 
