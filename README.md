@@ -10,7 +10,7 @@ The address of the mechanical website is:
 
 ## Website Screenshot
 
-Click [here] (https://amir-mirzakhani.github.io/mechanic/) to see the demo
+click 	[here](https://amir-mirzakhani.github.io/mechanic/) to see demo
 
 Description: The above image represents the overall appearance and design of our mechanical website.
 
