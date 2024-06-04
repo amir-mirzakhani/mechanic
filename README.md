@@ -34,9 +34,9 @@ If you would like to contribute to improving the website, please Fork and send a
 
 If you have any questions or requests, feel free to contact us. Find the contact information below:
 
-- Name: [Your Name]
-- Email: [Your Email Address]
-- Website: [Your Website, optional]
+- Name: [amir mirzakhani ]
+- Email: [irhplus98@gmail.com]
+- Instagram: [https://www.instagram.com/amir._.code/]
 
 ---
 
